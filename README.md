@@ -1,6 +1,6 @@
 ### Olá! Eu sou  o Adrian Cotias.
 
-- 🐱‍👤 Atualmente estudo programação Full stack 
+- 🐱‍👤 Atualmente Estudo Programação Full Stack 
 - 💻 Aluno do Curso Programadores do Amanhã
 
 
