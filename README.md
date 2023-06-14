@@ -4,17 +4,15 @@
 - 💻 Aluno do Curso Programadores do Amanhã
 - 😄 Pronouns: ele/dele
 <br>
-
-[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-da-silva-cotias-94a878248/)
-[![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-
-<br>
 <br>
 <div> 
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianCotias&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCotias&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
+<br>
+[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-da-silva-cotias-94a878248/)
+[![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 
 ### Tecnologias do meu dia a dia!
