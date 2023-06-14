@@ -11,11 +11,12 @@
 <br>
 
 <div> 
-   <a href="https://instagram.com/only_cotias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-   <a href = "mailto: adriancotyas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/adrian-da-silva-cotias-94a878248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-   <a href="">
-      </div>
+   <a href="https://instagram.com/only_cotias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="email"></a>
+   <a href = "mailto: adriancotyas@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
+   <a href="https://www.linkedin.com/in/adrian-da-silva-cotias-94a878248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> 
+   <a href="971615604354199592"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
+</div>
+
 <br>
 <br>
 
