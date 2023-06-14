@@ -11,9 +11,11 @@
 <br>
 
 <div>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-
-</div>	https://www.linkedin.com/in/adrian-da-silv a-cotias-94a878248/
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href"
+=https://www.linkedin.com/in/adrian-da-silv a-cotias-94a878248/"
+> 
+</div>	
 
 
 
